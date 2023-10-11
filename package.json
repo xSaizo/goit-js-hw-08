@@ -12,10 +12,10 @@
     "url": "https://github.com/xSaizo/goit-js-hw-08"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Mihai Andrei <mihai.andrey96@yahoo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/xSaizo/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
