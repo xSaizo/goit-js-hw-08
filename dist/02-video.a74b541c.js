@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"5rKFT":[function(require,module,exports) {
+})({"hx6Gl":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -521,7 +521,7 @@ player.loadVideo("https://player.vimeo.com/video/236203659").then(()=>{
     if (savedTime) player.setCurrentTime(parseFloat(savedTime));
 });
 
-},{"./storage.js":"h0qAZ","@vimeo/player":"kmmUG","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","lodash.throttle":"bGJVT"}],"h0qAZ":[function(require,module,exports) {
+},{"./storage.js":"h0qAZ","@vimeo/player":"kmmUG","lodash.throttle":"bGJVT","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"h0qAZ":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 const save = (key, value)=>{
@@ -3364,6 +3364,6 @@ var global = arguments[3];
 }
 module.exports = throttle;
 
-},{}]},["5rKFT","fFZ34"], "fFZ34", "parcelRequired7c6")
+},{}]},["hx6Gl","fFZ34"], "fFZ34", "parcelRequired7c6")
 
 //# sourceMappingURL=02-video.a74b541c.js.map
