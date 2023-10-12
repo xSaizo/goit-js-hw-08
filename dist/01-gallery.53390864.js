@@ -2138,6 +2138,6 @@ let gallery = new SimpleLightbox(".gallery a", {
 });
 gallery.on("shown.simplelightbox", function(e) {});
 
-},{"./gallery-items.js":"9C7dK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["jPofG","6XVkV"], "6XVkV", "parcelRequired7c6")
+},{"./gallery-items.js":"9C7dK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["jPofG","6XVkV"], "6XVkV", "parcelRequire4c75")
 
 //# sourceMappingURL=01-gallery.53390864.js.map
