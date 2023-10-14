@@ -536,6 +536,8 @@ form.addEventListener("submit", function(event) {
     };
     console.log(formState);
     localStorage.removeItem(storageKey);
+    emailInput.value = "";
+    messageTextarea.value = "";
 });
 
 },{"./storage.js":"h0qAZ","lodash.throttle":"bGJVT","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"h0qAZ":[function(require,module,exports) {
